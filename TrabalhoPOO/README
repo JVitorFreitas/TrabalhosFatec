@@ -1,0 +1,229 @@
+
+Spring Security
+
+
+
+# TrabalhosFatec - TrabalhoPOO
+
+## Sobre o Projeto
+
+Este repositório contém o projeto de Programação Orientada a Objetos (POO) desenvolvido para a Fatec.
+O foco principal deste trabalho é a implementação
+do Spring Security para adicionar uma camada de segurança robusta à aplicação.
+
+## Estrutura do Projeto
+
+O projeto está organizado da seguinte maneira:
+- `src`: Contém o código fonte do projeto.
+- `target`: Diretório gerado após a compilação do código.
+- `HELP.md`: Documentação auxiliar para o projeto.
+- `mvnw` e `mvnw.cmd`: Scripts Maven wrapper para sistemas Unix e Windows, respectivamente.
+- `pom.xml`: Arquivo de configuração do Maven com as dependências e plugins do projeto.
+
+## Como Usar
+
+Para utilizar este projeto, siga os passos abaixo:
+1. Clone o repositório para sua máquina local.
+2. Navegue até o diretório do projeto.
+3. Execute o comando `mvnw clean install` para instalar as dependências e compilar o projeto.
+4. Após a compilação, execute o projeto com o comando `mvnw spring-boot:run`.
+
+## Contribuições
+
+Contribuições são sempre bem-vindas! Para contribuir, por favor, crie um fork do repositório, faça suas alterações e submeta um pull request.
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo `LICENSE.md` para detalhes.
+
+## Autor
+
+- JVitorFreitas
+- klebber1
+
+---
+
+README gerado por Copilot para o projeto TrabalhosFatec/TrabalhoPOO.
+
+Lembre-se de personalizar o conteúdo do README para refletir as especificidades do seu projeto e adicionar qualquer informação
+adicional que possa ser útil para os usuários e contribuidores do repositório.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
